@@ -1,0 +1,1 @@
+Place a single version of a .jar file into the plugins folder in the main directory of the server. Restart the server to add the changes.
