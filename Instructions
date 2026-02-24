@@ -1,1 +1,3 @@
+Go to this link https://purpurmc.org/download/purpur and download latest version and put it into the empty file space in the file manager of the hosting website and run the server. The .jar file will generate all new needed files
+
 Place a single version of a .jar file into the plugins folder in the main directory of the server. Restart the server to add the changes.
